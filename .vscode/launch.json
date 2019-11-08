@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - BinaryHeap",
+      "request": "launch",
+      "mainClass": "BinaryHeap"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Practice09Test",
+      "request": "launch",
+      "mainClass": "Practice09Test"
+    }
+  ]
+}
